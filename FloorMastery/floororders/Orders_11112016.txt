@@ -1,0 +1,17 @@
+206,Mazer Rackham,AS,8.00,Vanadogen,110.00,59.00,1.33,6490.00,146.30,530.90,7167.20
+207,Samantha Carter,GU,23.20,Dynamic Resonance Buffer,242.00,40.00,4.30,9680.00,1040.60,2465.74,13186.34
+208,Tuvok,GU,23.20,Metallomite,177.00,32.00,4.00,5664.00,708.00,1465.56,7837.56
+209,Jonas Quinn,AS,8.00,Bioneural Degeneration Sensor,69.00,44.00,0.00,3036.00,0.00,242.88,3278.88
+210,Luke Skywalker,MO,5.00,Primary Flux Matrix,311.00,2.00,2.99,622.00,929.89,77.59,1629.48
+211,Obi-Wan Kenobi,MO,5.00,Bioneural Degeneration Sensor,200.00,44.00,0.00,8800.00,0.00,440.00,9240.00
+212,Boba Fett,MI,5.47,Positive Hermin,159.00,62.53,3.50,9942.27,556.50,524.94,11023.71
+213,Senator Palpatine,PR,14.00,Modular Inertial Replication Scanner,73.00,33.00,3.10,2409.00,226.30,368.94,3004.24
+214,Teal'c,MI,5.47,Non-refractive Nonite,150.00,41.00,4.14,6150.00,621.00,338.55,7109.55
+215,Quark,VT,15.25,Modular Inertial Replication Scanner,12.00,33.00,3.10,396.00,37.20,64.98,498.18
+216,Darth Vader,MN,0.00,Dynamic Resonance Buffer,234.00,40.00,4.30,9360.00,1006.20,0.00,10366.20
+217,Hugh of Borg,HI,6.00,Nonus,209.00,14.11,7.29,2948.99,1523.61,268.36,4740.96
+218,Darth Vader,MO,5.00,Phlosoium,246.00,82.10,6.00,20196.60,1476.00,1083.63,22756.23
+219,C-3PO,MN,0.00,Positive Phorus,158.00,5.64,5.00,891.12,790.00,0.00,1681.12
+220,Senator Palpatine,MT,21.00,Morphon,213.00,129.34,322.00,27549.42,68586.00,20188.44,116323.86
+221,Senator Palpatine,IN,23.00,Bioneural Degeneration Sensor,133.00,44.00,0.00,5852.00,0.00,1345.96,7197.96
+222,Senator Palpatine,IN,23.00,Positive Hermin,167.00,62.53,3.50,10442.51,584.50,2536.21,13563.22
