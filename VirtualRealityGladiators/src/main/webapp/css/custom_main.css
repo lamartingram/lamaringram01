@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2017, 12:26:42 PM
+    Author     : Daniel McBride
+*/
+
+/*html, body {
+    height: 100%
+}*/
+
+/*body {
+    background-color: black;
+}*/
+
+h1, h2, a, li, p, h3 {
+    color: gold;
+}
+
+#main_navbar {
+    background-image: url('../img/copper_standin.jpg');
+}
+
+.navbar .nav nav-tabs{
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+
+.navbar li {
+    display: inline-block;
+    padding: 5px 30px;
+}
+
+/*h2 { 
+    position: absolute; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+}*/
+#footer {
+    background:black;
+   
+}
+
+
+.nav-tabs > li > a:hover {
+    color: gold;
+    background-color: black;
+}
